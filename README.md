@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SwiftUI, IOS Development**
 
-- 👨‍💻 All of my projects are available at [sahayaksharma.in](sahayaksharma.in)
+- 👨‍💻 All of my projects are available at [sahayaksharma.in](https://sahayaksharma.in)
 
 - 💬 Ask me about **Typescript, React Native, Next.js**
 
