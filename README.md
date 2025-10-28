@@ -13,7 +13,8 @@
 
 - 📫 How to reach me **sahayaksharma6@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oSmdWbUkgF5euBF3D49DGghCxknsYvHW/view?usp=sharing](Resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1oSmdWbUkgF5euBF3D49DGghCxknsYvHW/view?usp=sharing)
+- 📄 Know about my experiences 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/SahayakSharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahayak sharma" height="30" width="40" /></a>
