@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahayak Sharma</h1>
-<h3 align="center">I mobile developer from India</h3>
+<h3 align="center">I am a mobile developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahayaksharma&label=Profile%20views&color=0e75b6&style=flat" alt="sahayaksharma" /> </p>
 
